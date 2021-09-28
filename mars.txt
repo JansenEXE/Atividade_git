@@ -1,2 +1,3 @@
 Informacao adicionada com sucesso.
-Nova informaçcao
+Nova informaçao
+Outra informação
